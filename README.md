@@ -20,10 +20,10 @@ Even though the use case is playful, the project demonstrates:
 ---
 
 ## 🖼 Example Predictions
-| Image | Prediction | Confidence |
-|-------|------------|------------|
-| ![Pineapple](pineapple.jpg) | Pineapple | 98% |
-| ![Dragonfruit](dragonfruit.jpg) | Dragon Fruit | 96% |
+| Image | Prediction |
+|-------|------------|
+| ![Pineapple](pineapple.jpg) | Pineapple |
+| ![Dragonfruit](dragonfruit.jpg) | Dragon Fruit |
 
 ---
 
@@ -40,5 +40,4 @@ You can run the notebook locally or on **Google Colab**.
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/uswakk/pineapple-vs-dragonfruit.git
-cd pineapple-vs-dragonfruit
+git clone https://github.com/uswakk/Pineapple-Vs-Dragon-Fruit-Classifier
